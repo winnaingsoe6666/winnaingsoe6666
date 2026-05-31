@@ -6,7 +6,7 @@
 <h3 align="center">
     <samp>
         &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/hirad-alagha/">Hirad Emamialagha</a></b>
+        <b><a target="_blank" href="https://www.linkedin.com/in/hirad-alagha/">Win Naing Soe</a></b>
     </samp>
 </h3>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
 <samp>
-「 Lead ML Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
+「 Software Engineer | Java • Spring Boot • Microservices • AWS • FinTech 」  
 </samp>
 </p>
 
