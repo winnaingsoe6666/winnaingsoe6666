@@ -1,254 +1,130 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Win%20Naing%20Soe&fontSize=70&animation=twinkling" alt="Hirad Emamialagha profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Win%20Naing%20Soe&fontSize=70&animation=twinkling" alt="Win Naing Soe profile header" />
 </p>
 
 <!-- Title -->
 <h3 align="center">
     <samp>
-        &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/hirad-alagha/">Win Naing Soe</a></b>
+        &gt; Senior Software Engineer | Java • Spring Boot • Microservices • FinTech
     </samp>
 </h3>
 
 <br>
 
 <p align="center">
-<samp>
-「 Software Engineer | Java • Spring Boot • Microservices • AWS • FinTech 」  
-</samp>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Senior+Full-Stack+Software+Engineer;Architecting+Scalable+FinTech+Platforms;Expertise+in+Java+%7C+Spring+Boot+%7C+Microservices;Building+High-Availability+Enterprise+Systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Backend+Engineer;Designing+Scalable+FinTech+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
-    alt="Typing SVG"
-  />
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/winnaingsoe6666)
+
+### 👨‍💻 About Me
+<p align="justify">
+A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of experience</b> designing and building scalable backend and full-stack systems for FinTech and core banking platforms. I specialize in Java, Spring Boot, Microservices Architecture, and enterprise application development. I have a proven track record of leading engineering teams, modernizing legacy systems, optimizing performance, and delivering high-availability solutions supporting large-scale financial operations with zero downtime.
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated machine learning visual">
-</p>
+- 🚀 **Current Focus:** Building robust banking microservices and leading high-performing engineering teams.
+- 💡 **Key Achievements:** Built and maintained systems supporting 5,000+ concurrent users; successfully delivered enterprise banking platforms.
+- 🏆 **Awards:** President Awards for Best System Development and Productivity & Quality Assurance.
+- 🌍 **Base:** Chiang Mai, Thailand.
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/winnaingsoe6666)
 
-<!-- Title -->
-<p align="center">
-  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access section title" />
-</p>
+### 🛠️ Technical Arsenal
 
-<p align="center">
-
-<a href="https://hirademami.github.io/">
-  <img width="82%" src="./docs/img/system/portal_main.svg" alt="Hirad System portal" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://hirademami.github.io/neural-lab/index.html">
-  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Neural Lab" />
-</a>
-<a href="https://hirademami.github.io/molecules/index.html">
-  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Molecule Lab" />
-</a>
-<a href="https://hirademami.github.io/model-forge/index.html">
-  <img width="32%" src="./docs/img/system/model_forge.svg" alt="Model Forge" />
-</a>
-
-</p>
-
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
-
-<p align="center">
-  <img src="./docs/img/hirad_core.svg" width="100%" alt="System core panel" />
-</p>
-
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
-
-
-# 🛠 Technologies, Projects, and Domains
-
-<table border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: TOOLS -->
-<td width="420" valign="top" align="center">
-
-<h3>🛠 Technologies</h3>
-<br>
-
-<table align="center" cellspacing="0" cellpadding="6">
+<table align="center" border="0" cellspacing="10" cellpadding="10" width="100%">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32"/></td>
+    <td align="center" width="25%" valign="top">
+      <h4>Backend & Architecture</h4>
+      <br>
+      <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle" /><br><br>
+      <code>Microservices</code><br><code>REST APIs</code><br><code>System Design</code><br><code>SOLID Principles</code>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>Frontend Development</h4>
+      <br>
+      <img src="https://skillicons.dev/icons?i=angular,react,ts,tailwind" /><br><br>
+      <code>Responsive UI</code><br><code>Single Page Apps</code>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>Database & Storage</h4>
+      <br>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br><br>
+      <code>Stored Procedures</code><br><code>Query Optimization</code><br><code>Oracle</code>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>Cloud, DevOps & Tools</h4>
+      <br>
+      <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,gitlab,linux,git" /><br><br>
+      <code>CI/CD Pipelines</code><br><code>Agile/Scrum</code><br><code>Test Automation</code>
+    </td>
   </tr>
 </table>
 
-</td>
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/winnaingsoe6666)
 
-<!-- PROJECTS -->
-<td width="260" valign="top" align="center">
+### 📊 GitHub Analytics
 
-<h3>🧪 Projects</h3>
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winnaingsoe6666&theme=radical&hide_border=true" alt="Win Naing Soe GitHub Streak" />
+</p>
 
-<div style="width:220px;">
-  <a href="docs/PROJECTS.md">
-    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
+<p align="center">
+  <a href="https://github.com/winnaingsoe6666">
+    <img src="https://github-readme-stats.vercel.app/api?username=winnaingsoe6666&show_icons=true&theme=radical&hide_border=true" alt="Win Naing Soe GitHub Stats" />
   </a>
-</div>
-
-</td>
-
-<!-- AI DOMAINS -->
-<td width="260" valign="top" align="center">
-
-<h3>🧠 AI Domains</h3>
-<br>
-
-<div style="width:220px;">
-    <a href="docs/AI_DOMAIN.md">
-        <img src="docs/img/ai_domains.svg" width="220" alt="AI domains navigation panel">
-    </a>
-</div>
-
-</td>
-
-</tr>
-</table>
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
-
-### 📊 Vital Statistics
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiradEmami&theme=radical" alt="Streak" />
+  <a href="https://github.com/winnaingsoe6666">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnaingsoe6666&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiradEmami&theme=radical" alt="GitHub profile contribution summary" />
-</p>    
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HiradEmami&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=winnaingsoe6666&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
-</p>
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/winnaingsoe6666)
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
-
-<!-- LEFT: COLLAB -->
-<td width="33%" valign="top">
-
-<h2>🤝 Collaboration</h2>
-
-I’m open to collaborating on:
-
+<!-- LEFT: EXPERIENCE -->
+<td width="50%" valign="top">
+<h2>💼 Professional Highlights</h2>
 <ul>
-  <li>ML infrastructure projects</li>
-  <li>Reinforcement learning systems</li>
-  <li>Robotics & autonomous systems</li>
-  <li>Large-scale AI platforms</li>
+  <li><b>Senior Software Engineer @ MSIS Company</b><br><i>(Feb 2025 - Present)</i><br>Architected scalable microservices on Mifos Fineract platform; launched 3 banking microservices.</li>
+  <br>
+  <li><b>Senior Software Engineer @ DIR-ACE Technology</b><br><i>(Mar 2020 - Jan 2025)</i><br>Led offshore FinTech projects; mentored 11+ engineers; engineered JLPT registration backend (5,000+ users).</li>
 </ul>
-
-</td>
-
-<!-- MIDDLE: PANEL -->
-<td width="34%" align="center" valign="middle">
-    <a href="docs/COLLAB.md">
-        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
-    </a>
 </td>
 
 <!-- RIGHT: CONTACT -->
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
-<h2>📫 Contact</h2>
-
+<h2>📫 Let's Connect</h2>
 <br>
 
-<a href="https://hirademami.github.io/">
-  <img src="https://img.shields.io/badge/Personal%20Website-hirademami.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
+<a href="https://winnaingsoe.vercel.app">
+  <img src="https://img.shields.io/badge/Personal%20Website-Portfolio-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
 </a>
 <br><br>
 
-<a href="mailto:hirad.alagha@outlook.com">
-  <img src="https://img.shields.io/badge/email-hirad.alagha@outlook.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+<a href="mailto:winnaingsoe6666@gmail.com">
+  <img src="https://img.shields.io/badge/email-winnaingsoe6666@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
 </a>
 <br><br>
 
-<a href="https://www.linkedin.com/in/hirad-alagha/">
-  <img src="https://img.shields.io/badge/linkedin-hirad--alagha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+<a href="https://linkedin.com/in/win-naing-soe">
+  <img src="https://img.shields.io/badge/linkedin-win--naing--soe-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+<br><br>
+
+<a href="https://wa.me/66960308914">
+  <img src="https://img.shields.io/badge/whatsapp-+66%20960%20308%20914-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp contact link">
 </a>
 
 </td>
-
 </tr>
 </table>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
-
-<p align="center">
-⚡ Building scalable AI systems and machine learning infrastructure
-</p>
-<p align="center">
-Star ⭐ the repos if they helped you!
-</p>
-
-<p align="center">
-  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
-  <a href="./CONTRIBUTING.md">Collaboration</a> ·
-  <a href="./SECURITY.md">Security</a>
-</p>
-
-
-
-<p align="center">
-    <a href="docs/hidden/easter_egg.md">
-        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
-    </a>
-</p>
-
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
