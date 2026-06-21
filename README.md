@@ -1,73 +1,131 @@
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Clayton+Hamilton%2C+PharmD;Welcome+to+my+README" alt="Typing SVG" /></a>
-</h1>
-<br>
-<p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
-I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
-This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>05:58 AM</b> and sets at <b>08:52 PM</b>. 
-As of <b>04:55 PM MST </b> the temperature is <b>67.0°F</b> 👌😄.</p>
-<br>
-The air quality in my area is currently <b>moderate (PM10: 53.4)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
-matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
-<br>
-<br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>1358</b> days.
-During this time, <b>1512</b> of <b>4064</b> ( <b>37.2% </b>) of all PM10 points collected
-exceeded the recommended US EPA level of 50 PM10.
-<br>
-<br>
 <p align="center">
-  <img src="PM10_plot_2026.png" width="600" height="400">
-<img src="PM10_plot_2025.png" width="600" height="400">
-<img src="PM10_plot_2024.png" width="600" height="400">
-<img src="PM10_plot_2023.png" width="600" height="400">
-<img src="PM10_plot_2022.png" width="600" height="400">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Win%20Naing%20Soe&fontSize=70&animation=twinkling" alt="Win Naing Soe profile header" />
+</p>
 
-</p>
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Senior Software Engineer | Java • Spring Boot • Microservices • FinTech
+    </samp>
+</h3>
+
 <br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Senior+Full-Stack+Software+Engineer;Architecting+Scalable+FinTech+Platforms;Expertise+in+Java+%7C+Spring+Boot+%7C+Microservices;Building+High-Availability+Enterprise+Systems" alt="Typing SVG" />
 </p>
-<h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
-<h3>My Blog Post(s)</h3>
+
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/winnaingsoe6666)
+
+### 👨‍💻 About Me
+<p align="justify">
+A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of experience</b> designing and building scalable backend and full-stack systems for FinTech and core banking platforms. I specialize in Java, Spring Boot, Microservices Architecture, and enterprise application development. I have a proven track record of leading engineering teams, modernizing legacy systems, optimizing performance, and delivering high-availability solutions supporting large-scale financial operations with zero downtime.
+</p>
+
+- 🚀 **Current Focus:** Building robust banking microservices and leading high-performing engineering teams.
+- 💡 **Key Achievements:** Built and maintained systems supporting 5,000+ concurrent users; successfully delivered enterprise banking platforms.
+- 🏆 **Awards:** President Awards for Best System Development and Productivity & Quality Assurance.
+- 🌍 **Base:** Chiang Mai, Thailand.
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/winnaingsoe6666)
+
+### 🛠️ Technical Arsenal
+
+<table align="center" border="0" cellspacing="10" cellpadding="10" width="100%">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <h4>Backend & Architecture</h4>
+      <br>
+      <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle" /><br><br>
+      <code>Microservices</code><br><code>REST APIs</code><br><code>System Design</code><br><code>SOLID Principles</code>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>Frontend Development</h4>
+      <br>
+      <img src="https://skillicons.dev/icons?i=angular,react,ts,tailwind" /><br><br>
+      <code>Responsive UI</code><br><code>Single Page Apps</code>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>Database & Storage</h4>
+      <br>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br><br>
+      <code>Stored Procedures</code><br><code>Query Optimization</code><br><code>Oracle</code>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>Cloud, DevOps & Tools</h4>
+      <br>
+      <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,gitlab,linux,git" /><br><br>
+      <code>CI/CD Pipelines</code><br><code>Agile/Scrum</code><br><code>Test Automation</code>
+    </td>
+  </tr>
+</table>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/winnaingsoe6666)
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winnaingsoe6666&theme=radical&hide_border=true" alt="Win Naing Soe GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/winnaingsoe6666">
+    <img src="https://github-readme-stats.vercel.app/api?username=winnaingsoe6666&show_icons=true&theme=radical&hide_border=true" alt="Win Naing Soe GitHub Stats" />
+  </a>
+  <a href="https://github.com/winnaingsoe6666">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnaingsoe6666&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=winnaingsoe6666&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/winnaingsoe6666)
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+<!-- LEFT: EXPERIENCE -->
+<td width="50%" valign="top">
+<h2>💼 Professional Highlights</h2>
 <ul>
-  <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
+  <li><b>Senior Software Engineer @ MSIS Company</b><br><i>(Feb 2025 - Present)</i><br>Architected scalable microservices on Mifos Fineract platform; launched 3 banking microservices.</li>
+  <br>
+  <li><b>Senior Software Engineer @ DIR-ACE Technology</b><br><i>(Mar 2020 - Jan 2025)</i><br>Led offshore FinTech projects; mentored 11+ engineers; engineered JLPT registration backend (5,000+ users).</li>
 </ul>
-<h3 align="center">📄 Favorite Languages:</h3>
-<p align="center">
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
-</p>
-<h3 align="center">⚒ Tools I use:</h3>
-<p align="center">
-<a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
-<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
-<a target="_blank"><img alt="Report Builder" src="https://img.shields.io/badge/Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
-</p>
-<h3 align="center">Find me on</h3>
-<p align="center"><a 
-href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" 
-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
-href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
-src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
-href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /></a> 
-</p>
-<p align="center">
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="50%" valign="top" align="center">
+
+<h2>📫 Let's Connect</h2>
 <br>
-<text>If you torture the data long enough, it will confess to anything.<br> —Ronald H. Coase</text>
-</p>
+
+<a href="https://winnaingsoe.vercel.app">
+  <img src="https://img.shields.io/badge/Personal%20Website-Portfolio-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
+</a>
+<br><br>
+
+<a href="mailto:winnaingsoe6666@gmail.com">
+  <img src="https://img.shields.io/badge/email-winnaingsoe6666@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://linkedin.com/in/win-naing-soe">
+  <img src="https://img.shields.io/badge/linkedin-win--naing--soe-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+<br><br>
+
+<a href="https://wa.me/66960308914">
+  <img src="https://img.shields.io/badge/whatsapp-+66%20960%20308%20914-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp contact link">
+</a>
+
+</td>
+</tr>
+</table>
+
 <br>
+
 <p align="center">
-  <img alt="centered image" height="85" src="images/us.svg"/>
-  <br>
-  <img alt="README Update" 
-  src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
-  <br>
-Last updated on: 2026-05-30 04:55 PM MST
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
