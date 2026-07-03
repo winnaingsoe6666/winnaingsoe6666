@@ -114,16 +114,16 @@ A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of expe
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winnaingsoe6666&theme=radical&hide_border=true" alt="Win Naing Soe GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=winnaingsoe6666&theme=radical&hide_border=true" alt="Win Naing Soe GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/winnaingsoe6666">
-    <img src="https://github-readme-stats.vercel.app/api?username=winnaingsoe6666&show_icons=true&theme=radical&hide_border=true" alt="Win Naing Soe GitHub Stats" />
-  </a>
-  <a href="https://github.com/winnaingsoe6666">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnaingsoe6666&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+<a href="https://github.com/winnaingsoe6666">
+<img src="https://github-readme-stats.vercel.app/api?username=winnaingsoe6666&show_icons=true&theme=radical&hide_border=true" alt="Win Naing Soe GitHub Stats" />
+</a>
+<a href="https://github.com/winnaingsoe6666">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnaingsoe6666&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</a>
 </p>
 
 <p align="center">
