@@ -34,46 +34,46 @@ A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of expe
 <h2 align="center">🔥 Current Work</h2>
 
 <table align="center" width="100%" border="0" cellpadding="10">
-  <tr>
-    <td width="100%">
-      <h3 align="center">👨‍💻 Senior Software Engineer @ <code>MSIS Java (Private Repository)</code></h3>
-      
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java 17" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Apache%20Fineract-212121?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Fineract" />
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
-      </p>
-      
-      <br>
-      
-      <table width="100%" border="0">
-        <tr>
-          <td width="50%" valign="top">
-            <h4 align="center">🎯 Responsibilities</h4>
-            <ul>
-              <li>🏦 <b>Core Banking:</b> Loan Management & Savings Module</li>
-              <li>📊 <b>Financials:</b> Financial Reports (Trial Balance, P&L)</li>
-              <li>⚡ <b>Development:</b> REST API Development & Database Optimization</li>
-              <li>🛠️ <b>Maintenance:</b> Bug Fixes & Performance Tuning</li>
-            </ul>
-          </td>
-          <td width="50%" valign="top">
-            <h4 align="center">🏆 Achievements</h4>
-            <ul>
-              <li>✅ <b>Accuracy:</b> Fixed financial report calculation issues</li>
-              <li>🚀 <b>Efficiency:</b> Improved report performance</li>
-              <li>🔄 <b>Features:</b> Developed withdrawal workflow</li>
-              <li>🏗️ <b>Modernization:</b> Migrated legacy features</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr>
+<td width="100%">
+<h3 align="center">👨‍💻 Senior Software Engineer @ <code>MSIS Java (Private Repository)</code></h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java 17" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Apache%20Fineract-212121?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Fineract" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
+</p>
+
+<br>
+
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
+<h4 align="center">🎯 Responsibilities</h4>
+<ul>
+<li>🏦 <b>Core Banking:</b> Loan Management & Savings Module</li>
+<li>📊 <b>Financials:</b> Financial Reports (Trial Balance, P&L)</li>
+<li>⚡ <b>Development:</b> REST API Development & Database Optimization</li>
+<li>🛠️ <b>Maintenance:</b> Bug Fixes & Performance Tuning</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h4 align="center">🏆 Achievements</h4>
+<ul>
+<li>✅ <b>Accuracy:</b> Fixed financial report calculation issues</li>
+<li>🚀 <b>Efficiency:</b> Improved report performance</li>
+<li>🔄 <b>Features:</b> Developed withdrawal workflow</li>
+<li>🏗️ <b>Modernization:</b> Migrated legacy features</li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
 </table>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/winnaingsoe6666)
