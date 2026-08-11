@@ -1,0 +1,52 @@
+{
+    "1":{
+        "Quote":"Do. Or do not. There is no try.",
+        "Author":"Yoda"
+    },
+    "2":{
+        "Quote":"I know a lot about artificial intelligence. But not as much as it knows about me.",
+        "Author":"Dave Waters, Geology Professor and Machine Learning enthusiast"
+    },
+    "3":{
+        "Quote":"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.",
+        "Author":"John Woods"
+    },
+    "4":{
+        "Quote":"Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+        "Author":"Bill Gates"
+    },
+    "5":{
+        "Quote":"One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.",
+        "Author":"Steve Jobs"
+    },
+    "6":{
+        "Quote":"If you torture the data long enough, it will confess to anything.",
+        "Author":"Ronald H. Coase"
+    },
+    "7":{
+        "Quote":"Changing random stuff until your program works is 'hacky' and a 'bad coding practice'. But if you do it fast enough, it's called 'Machine Learning' and pays 4x your current salary.",
+        "Author":"Steve Maine, Software Engineer"
+    },
+    "8":{
+        "Quote":"Give someone a program, you frustrate them for a day. Teach them how to program, you frustrate them for a lifetime.",
+        "Author":"David Leinweber, Mathematician and Berkeley Computer Science Professor"
+    },
+    "9":{
+        "Quote":"To a disciple who was forever complaining about others, the Master said, If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.",
+        "Author":"Anthony de Mello"
+    },
+    "10":{
+        "Quote":"And once the storm is over, you won't remember how you made it through, how you managed to survive. You won't even be sure whether the storm is really over. But one thing is certain. When you come out of the storm, you won't be the same person who walked in. That's what this storm's all about.",
+        "Author":"Haruki Murakami"
+    },
+    "11":{
+        "Quote":"The pessimist criticizes, the optimist creates.",
+        "Author":"James Clear"
+    },
+       "12":{
+        "Quote":"Give me six lines written by the most honest man, and I will find something in them to hang him.",
+        "Author":"Cardinal Richelieu"
+    }
+    
+
+}
