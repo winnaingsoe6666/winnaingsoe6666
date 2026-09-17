@@ -25,7 +25,7 @@ A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of expe
 - 🚀 **Current Focus:** Building robust banking microservices and leading high-performing engineering teams.
 - 💡 **Key Achievements:** Built and maintained systems supporting 5,000+ concurrent users; successfully delivered enterprise banking platforms.
 - 🏆 **Awards:** President Awards for Best System Development and Productivity & Quality Assurance.
-- 🌍 **Base:** Chiang Mai, Thailand.
+- 🌍 **Base:** Bangkok, Thailand.
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/winnaingsoe6666)
 
