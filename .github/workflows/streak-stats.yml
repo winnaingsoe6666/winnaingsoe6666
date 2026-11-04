@@ -2,7 +2,7 @@ name: Update Streak Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at 00:00 UTC
+    - cron: "0 0 * * 0" # Runs weekly on Sunday at 00:00 UTC
   workflow_dispatch:    # Allows manual triggering from the Actions tab
   push:
     branches:

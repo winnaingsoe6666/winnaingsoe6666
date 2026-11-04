@@ -1,9 +1,9 @@
 # WIN NAING SOE
 
-**Backend / Full-Stack Engineer | Java • Spring Boot • Microservices • FinTech**
+**Senior Software Engineer | Java • Spring Boot • Microservices • FinTech**
 
 Current Location: Bangkok, Thailand | Nationality: Myanmar  
-WhatsApp: +66 960 308 914 | Email: winnaingsoe6666@gmail.com  
+Email: winnaingsoe6666@gmail.com  
 LinkedIn: https://linkedin.com/in/win-naing-soe | Portfolio: https://winnaingsoe.vercel.app  
 GitHub: https://github.com/winnaingsoe6666  
 

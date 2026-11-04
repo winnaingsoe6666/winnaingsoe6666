@@ -12,14 +12,14 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Senior+Full-Stack+Software+Engineer;Architecting+Scalable+FinTech+Platforms;Expertise+in+Java+%7C+Spring+Boot+%7C+Microservices;Building+High-Availability+Enterprise+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Architecting+Scalable+FinTech+Platforms;Expertise+in+Java+%7C+Spring+Boot+%7C+Microservices;Building+High-Availability+Enterprise+Systems" alt="Typing SVG" />
 </p>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/winnaingsoe6666)
+[![divider](./assets/dividers/divider_cyber_cycle.svg)](https://github.com/winnaingsoe6666)
 
 ### 👨‍💻 About Me
 <p align="justify">
-A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of experience</b> designing and building scalable backend and full-stack systems for FinTech and core banking platforms. I specialize in Java, Spring Boot, Microservices Architecture, and enterprise application development. I have a proven track record of leading engineering teams, modernizing legacy systems, optimizing performance, and delivering high-availability solutions supporting large-scale financial operations with zero downtime.
+A passionate <b>Senior Software Engineer</b> with <b>6+ years of experience</b> designing and building scalable backend and full-stack systems for FinTech and core banking platforms. I specialize in Java, Spring Boot, Microservices Architecture, and enterprise application development. I have a proven track record of leading engineering teams, modernizing legacy systems, optimizing performance, and delivering high-availability solutions supporting large-scale financial operations with zero downtime.
 </p>
 
 - 🚀 **Current Focus:** Building robust banking microservices and leading high-performing engineering teams.
@@ -27,7 +27,7 @@ A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of expe
 - 🏆 **Awards:** President Awards for Best System Development and Productivity & Quality Assurance.
 - 🌍 **Base:** Bangkok, Thailand.
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/winnaingsoe6666)
+[![divider](./assets/dividers/divider_cyber_cycle_mirrored.svg)](https://github.com/winnaingsoe6666)
 
 <br>
 
@@ -76,7 +76,7 @@ A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of expe
 </tr>
 </table>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/winnaingsoe6666)
+[![divider](./assets/dividers/divider_cyber_cycle_mirrored.svg)](https://github.com/winnaingsoe6666)
 
 ### 🛠️ Technical Arsenal
 
@@ -109,7 +109,7 @@ A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of expe
   </tr>
 </table>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/winnaingsoe6666)
+[![divider](./assets/dividers/divider_circuit_pulse_bar.svg)](https://github.com/winnaingsoe6666)
 
 ### 📊 GitHub Analytics
 
@@ -130,7 +130,7 @@ A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of expe
   <img src="https://komarev.com/ghpvc/?username=winnaingsoe6666&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/winnaingsoe6666)
+[![divider](./assets/dividers/divider_dual_energy_tracks.svg)](https://github.com/winnaingsoe6666)
 
 ### 🚀 Featured Projects
 
@@ -173,9 +173,7 @@ A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of expe
   </tr>
 </table>
 
-> 💡 **Note:** `team-05` is a team coordination repo for the *Vibe Code Tours Cohort 1* course, and `dev-portfolio` is an Angular-based portfolio site — both are included in the repo but not listed above.
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/winnaingsoe6666)
+[![divider](./assets/dividers/divider_dual_energy_tracks.svg)](https://github.com/winnaingsoe6666)
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
@@ -210,8 +208,8 @@ A passionate <b>Senior Full-Stack Software Engineer</b> with <b>6+ years of expe
 </a>
 <br><br>
 
-<a href="https://wa.me/66960308914">
-  <img src="https://img.shields.io/badge/whatsapp-+66%20960%20308%20914-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp contact link">
+<a href="./WinNaingSoe_Global_Premium_Resume.md">
+  <img src="https://img.shields.io/badge/Resume-View%20CV-6DB33F?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume link">
 </a>
 
 </td>
