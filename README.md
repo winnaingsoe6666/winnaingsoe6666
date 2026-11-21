@@ -35,42 +35,35 @@ A <b>Senior Backend & FinTech Engineer</b> with <b>6+ years</b> building backend
 
 <h2 align="center">🔥 Current Work</h2>
 
-<table align="center" width="100%" border="0" cellpadding="10">
-<tr>
-<td width="100%">
-<h3 align="center">👨‍💻 Full-Stack / Backend Engineer @ <code>Confidential Enterprise Client (NDA)</code> · Jul 2026 – Present</h3>
+<h3 align="center">👨‍💻 Full-Stack / Backend Engineer · <code>Confidential Client (NDA)</code></h3>
+<p align="center"><i>Jul 2026 – Present</i></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle PL/SQL" />
-<img src="https://img.shields.io/badge/Java%20EE-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java EE" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle PL/SQL" />
+<img src="https://img.shields.io/badge/Java%20EE-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java EE" />
 </p>
 
-<br>
-
-<table width="100%" border="0">
+<table>
 <tr>
-<td width="50%" valign="top">
-<h4 align="center">🎯 Responsibilities</h4>
+<td valign="top">
+<h4>🎯 Responsibilities</h4>
 <ul>
-<li>🏭 <b>ERP & WMS:</b> Manufacturing, BOM, Inventory, Procurement, Order Management</li>
-<li>🔄 <b>Modernization:</b> Legacy Java EE (JSP/Servlet) to Spring Boot REST APIs</li>
+<li>🏭 <b>ERP & WMS:</b> MFG, BOM, Inventory, Procurement, Orders</li>
+<li>🔄 <b>Modernization:</b> Java EE (JSP/Servlet) → Spring Boot REST</li>
 <li>🗄️ <b>Database:</b> Oracle PL/SQL procedures & triggers</li>
-<li>⚛️ <b>Frontend:</b> React UI integrated with new APIs</li>
+<li>⚛️ <b>Frontend:</b> React UI on new APIs</li>
 </ul>
 </td>
-<td width="50%" valign="top">
-<h4 align="center">🏆 Achievements</h4>
+<td valign="top">
+<h4>🏆 Previously @ MSIS</h4>
 <ul>
-<li>🏦 <b>Previously @ MSIS (Feb 2025 – Jun 2026):</b> 3 banking microservices on Mifos Fineract in production</li>
-<li>🔌 <b>15+ core endpoints:</b> Loans, Deposits, General Ledger</li>
-<li>📒 <b>Integrity:</b> Double-entry GL, strict ACID, zero ledger drift</li>
-<li>⏱️ <b>Automation:</b> Spring Batch schedulers cut manual intervention by 60%</li>
+<li>🏦 3 Mifos Fineract banking microservices in production</li>
+<li>🔌 15+ core endpoints: Loans, Deposits, GL</li>
+<li>📒 Double-entry GL, strict ACID, zero ledger drift</li>
+<li>⏱️ Spring Batch cut manual ops by 60%</li>
 </ul>
-</td>
-</tr>
-</table>
 </td>
 </tr>
 </table>
